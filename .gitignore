@@ -1,0 +1,14 @@
+__pycache__/
+
+# SQLite-Datenbank
+*.db
+# Generierte Ankipackete
+*.apkg
+# Konfigurationsdateien
+*.json
+*.toml
+
+# Gedownloadete Mediendateien
+audio/
+hanzi/
+

@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+genanki = "*"
+pandas = "*"
+google-speech = "*"
+odfpy = "*"
+charset-normalizer = "*"
+google-api-python-client = "*"
+google-auth-httplib2 = "*"
+google-auth-oauthlib = "*"
+pytelegrambotapi = "*"
+rfc3339 = "*"
+iso8601 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
